@@ -1,0 +1,11 @@
+{
+  "name": "animus-companion-qa",
+  "private": true,
+  "version": "6.0.1-qa.1",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.55.0"
+  }
+}

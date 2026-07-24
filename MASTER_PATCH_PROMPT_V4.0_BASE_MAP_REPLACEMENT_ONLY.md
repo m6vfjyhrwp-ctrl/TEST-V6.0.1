@@ -1,0 +1,3 @@
+# MASTER PATCH PROMPT — Animus Companion v4.0 Base Map Replacement Only
+
+Treat the attached latest working Animus Companion v4.0 Captain’s Edition ZIP as the authoritative production codebase and the attached clean Caribbean map image as the replacement base map. Perform a surgical base-map replacement only. Preserve architecture, map engine, gestures, marker IDs, database, routes, calibration, saved data, branding, icons, splash screen, and localStorage. Keep deployable files at ZIP root, increment the patch and service-worker cache versions, document the calibration method, and do not claim unperformed device testing.

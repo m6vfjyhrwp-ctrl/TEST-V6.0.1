@@ -1,0 +1,118 @@
+{
+  "releaseVersion": "6.0.1-qa.1",
+  "buildId": "animus-v6.0.1-qa.1-20260724",
+  "generatedAt": "2026-07-24T18:30:00Z",
+  "integrityManifestVersion": 1,
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "220153952593d4b0f11baa48a7fe535ca4fdcb907195a48f9036646952d490f1",
+      "size": 16729
+    },
+    {
+      "path": "styles.css",
+      "sha256": "b3c555c699d182a9de2bfb0857059b429bd49a5eeba7e1a741d5a371c7edcd92",
+      "size": 29453
+    },
+    {
+      "path": "release-identity.js",
+      "sha256": "4e7b16e3ff41aad7a34f78b926a246b0e68301a3e266315b04b2b7db7c3e50d6",
+      "size": 459
+    },
+    {
+      "path": "release-identity.json",
+      "sha256": "9be93142bea61b53b83bc04f84d0da2a6b8d28f400a4859630e49548caa50f46",
+      "size": 458
+    },
+    {
+      "path": "integrity.js",
+      "sha256": "76ca5ef4e2e168a0d3588a9be56e666515e5d66fa78c79363a8ca56890d1de0e",
+      "size": 1670
+    },
+    {
+      "path": "qa-mode.js",
+      "sha256": "f57bcedbc3c9fefdb3295073365c0ad1884f86639afa5eeccdfdb09cc30ed486",
+      "size": 5013
+    },
+    {
+      "path": "qa-mode.css",
+      "sha256": "40398e943940b059a606a2c808c150e271961039c2e536132afd125cdbcfae0a",
+      "size": 1216
+    },
+    {
+      "path": "engine.js",
+      "sha256": "37c196dfb583a64956fee77c48bcb4ce80797bcd5dcbc69ba8b3d26d52e1312a",
+      "size": 8893
+    },
+    {
+      "path": "database.js",
+      "sha256": "d8bf2db754f068875cebbabe1b53ae9a387d7be35e7641df201f22496642ddc8",
+      "size": 224300
+    },
+    {
+      "path": "app.js",
+      "sha256": "080f7859a5411c23f3949d27c400c7a713b040c2f033eb356210926498babf56",
+      "size": 84598
+    },
+    {
+      "path": "service-worker.js",
+      "sha256": "134c9176547a270da1419c36322a8f599dac6aa546bf904c7445efd7fa9ff015",
+      "size": 1921
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "55c40abd482a6fb76c9bab8f48a5fdebd9e71a60e7af947236af9f3aec65c8d3",
+      "size": 617
+    },
+    {
+      "path": "caribbean-map.jpg",
+      "sha256": "67b2c8c66e8b9149c028ed295beb71599850dcc19314a9a30411bd9afc51cf11",
+      "size": 1076786
+    },
+    {
+      "path": "man-o-war-hybrid.png",
+      "sha256": "571a37e22476307624acc10a1937133cb2c404a601c80f962a574c53d8705bf0",
+      "size": 267605
+    },
+    {
+      "path": "branding-splash.png",
+      "sha256": "0bd3584e64a19c59a9013d71fd122f7d57f2993e6fd5e00dca1d94a2d83bd50d",
+      "size": 1133861
+    },
+    {
+      "path": "favicon-16.png",
+      "sha256": "4a79115da96c467b0b6fc0648697a4ec997236919421562f13c2c68ed597f84b",
+      "size": 561
+    },
+    {
+      "path": "favicon-32.png",
+      "sha256": "b3d75e0c358c877f9a87e3dbf7d204f2e39f0443ef8b6758413af6ee2c80c993",
+      "size": 1641
+    },
+    {
+      "path": "favicon-64.png",
+      "sha256": "f4a09731082e9821d311e59112bc8730929b316fd57332bc076f3f997e7171b1",
+      "size": 6045
+    },
+    {
+      "path": "icon-180.png",
+      "sha256": "dc5986a319370a8e768a2d0262c7bd7bc4d9012c7cca7e2066fd0329bfeb01ee",
+      "size": 44017
+    },
+    {
+      "path": "icon-192.png",
+      "sha256": "faf644c4816eab618e738d2c97ed16c9623e501e80a88b7de3ed1cff00f270ca",
+      "size": 49635
+    },
+    {
+      "path": "icon-512.png",
+      "sha256": "571a37e22476307624acc10a1937133cb2c404a601c80f962a574c53d8705bf0",
+      "size": 267605
+    },
+    {
+      "path": "VERSION.json",
+      "sha256": "ba47a6810bc7b64c7a807b9907c1b5a9a72b12248806ad730db2e093652d19ec",
+      "size": 306
+    }
+  ]
+}

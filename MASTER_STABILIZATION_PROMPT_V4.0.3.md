@@ -1,0 +1,3 @@
+# MASTER STABILIZATION PROMPT — Animus Companion v4.0.3 “Production Cleanup”
+
+Treat the attached latest working Animus Companion v4.0.x Captain’s Edition ZIP as the authoritative production codebase. Do not rebuild, replace the architecture, redesign the interface, remove working gameplay systems, alter marker IDs, reset saves, or rewrite the database. Produce a root-level, GitHub Pages-ready ZIP; audit production code, responsive layout, map sizing/alignment, service worker/offline behavior, data integrity, accessibility, and performance; preserve the removed main-map Next Objective banner while keeping the underlying feature accessible; update versioning and honest documentation; and prefer documenting risky issues over destabilizing changes.
